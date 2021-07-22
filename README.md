@@ -15,3 +15,5 @@ node index.js
 In Terminal 2 
 cd spaceX-full-stack/client
 npm start
+
+BUG: Launch with mission name CRS_21 is added twice. 
