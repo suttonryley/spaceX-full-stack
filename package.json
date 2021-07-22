@@ -1,0 +1,20 @@
+{
+  "name": "spacex_server_app",
+  "version": "1.0.0",
+  "description": "Service Application built on Node.js that wraps information from the SpaceX REST Api and serves the information as a GrpahQL API. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryley Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.3.21",
+    "apollo-datasource-rest": "^3.0.1",
+    "apollo-server": "^3.0.2",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1",
+    "start": "^5.1.0"
+  }
+}
