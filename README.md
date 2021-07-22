@@ -1,5 +1,6 @@
 # spaceX-full-stack
 Technical Interview for EvGo
+Functionality of Project not supported on Internet Explorer
 
 Instructions for Running
 
