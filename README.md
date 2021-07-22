@@ -18,3 +18,5 @@ cd spaceX-full-stack/client
 npm start
 
 BUG: Launch with mission name CRS_21 is added twice. 
+
+Search is case sensitive. 
