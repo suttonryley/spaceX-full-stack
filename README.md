@@ -6,8 +6,10 @@ Instructions for Running
 
 cd spaceX-full-stack
 npm install 
-cd client
-npm install 
+
+clone the client https://github.com/suttonryley/spaceX-api-client
+run npm install 
+run npm install react-scripts
 
 In Terminal 1 
 cd spaceX-full-stack/server
@@ -20,3 +22,4 @@ npm start
 BUG: Launch with mission name CRS_21 is added twice. 
 
 Search is case sensitive. 
+
